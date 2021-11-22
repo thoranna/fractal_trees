@@ -1,3 +1,5 @@
-# recursive_tree
+# Fractals
 
-![red_tre](https://user-images.githubusercontent.com/54947763/142517476-8ad21420-1201-4900-a8f2-1a0f5ba5c54e.png)
+Example: 
+
+![fractals77](https://user-images.githubusercontent.com/54947763/142947912-342a7960-3c4c-4dc6-9c78-d3d059e16143.png)
